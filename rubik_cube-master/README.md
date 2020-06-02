@@ -3,7 +3,7 @@ Rubik Cube in C++ with OpenGL/glut
 
 ## Documentation
 
-This project is a part of my Computer Graphics and Multimedia Project, which is to create a virtual Rubik's Cube that can be solved with the help of mouse or keyboard fucntions.
+This project is a part of my Computer Graphics and Multimedia Project, which is to create a virtual Rubik's Cube. The cube  can be solved by rotating the 3 layers sequentially, with the help of mouse or keyboard functions.
 
 
 
